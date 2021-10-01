@@ -1,0 +1,48 @@
+body {
+    font-size: 2rem;
+    text-align: center;
+    background: linear-gradient(to right, #d66d75, #e29587);
+}
+
+img {
+    max-width: 100%;
+    /* display: block; */
+    height: 70%;
+    object-fit: cover;
+    margin-bottom: 1em;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: hsla(234, 89%, 29%, 0.7);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: rgba(17, 14, 3, 0.712);
+}
+
+.recipe-container {
+    display: flex;
+    justify-content: space-between;
+    height: 50vh;
+    padding: 2em;
+}
+
+.item {
+    width: 30%;
+    transition: 0.5s;
+}
+
+.item img {
+    width: 100%;
+}
+
+.item:hover {
+    transform: scale(1.1);
+}

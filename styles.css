@@ -6,7 +6,7 @@ body {
 
 img {
     max-width: 100%;
-    /* display: block; */
+    display: block;
     height: 70%;
     object-fit: cover;
     margin-bottom: 1em;

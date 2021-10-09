@@ -7,3 +7,5 @@ A [project](https://www.theodinproject.com/paths/foundations/courses/foundations
 -   Practiced ordered and unordered lists
 -   Styled all the pages
 -   Played with flexbox
+---
+[Click here](https://b-joyy.github.io/odin-recipes/) to visit the live page
